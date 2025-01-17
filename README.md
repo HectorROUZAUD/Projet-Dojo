@@ -1,35 +1,8 @@
-# TP 6 - Vuex vue-router
-
-### LAST NAME : BEN JAAFAR
-### First name : Chedli
-### TP group : 
-- [ ] TPA41
-- [ ] TPA42
-- [ ] TPA51
-- [x] TPA52
-- [ ] Not selected
+# # Projet-Dojo
 
 
+#############################ROUZAUD-PHILIPPE-BAGDATLI-Chedli##################################
+#############################ROUZAUD-PHILIPPE-BAGDATLI-Chedli##############
 
-## Project setup
-```
-npm install
-```
+Site web pour le projet Dojo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
